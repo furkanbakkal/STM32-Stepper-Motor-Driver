@@ -36,3 +36,6 @@ Note: Cable jumps on the board have been fixed in version 1.2
 
 ## Demo
 
+You can check this Google Drive link for real life demo: https://drive.google.com/file/d/10obyRq6SgMOz6bZmb6Qkc-JsMecKdY-S/view?usp=sharing
+
+![image](https://github.com/furkanbakkal/STM32-Stepper-Motor-Driver/assets/81293327/39694f5d-0cad-48f8-a44d-b88c99f95862)
