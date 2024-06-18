@@ -1,7 +1,8 @@
 STM32-Stepper-Motor-Driver
 
-Hi! This is Istanbul University Cerrahpaşa Electrical and Electronics Engineering graduation project. 
-It is "STM32 and N-MOS Based Stepper Motor Driver"
+-Hi! This project for Istanbul University Cerrahpaşa Electrical and Electronics Engineering graduation. 
+
+-This is "STM32 and N-MOS Based Stepper Motor Driver"
 
 - 2 layer PCB
 - Full stepper motor control circuit
